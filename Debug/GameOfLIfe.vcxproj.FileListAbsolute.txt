@@ -1,0 +1,2 @@
+C:\Users\Rik Smits\OneDrive - Willem van Oranje Scholengroep\c++\GameOfLIfe\Debug\GameOfLIfe.exe
+C:\Users\Rik Smits\OneDrive - Willem van Oranje Scholengroep\c++\GameOfLIfe\Debug\GameOfLIfe.pdb
